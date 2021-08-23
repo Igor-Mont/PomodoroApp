@@ -1,10 +1,17 @@
 import React from 'react';
+import Pomodoro from '../../components/Pomodoro';
+import { Container } from './styles';
 
 function Home() {
   return (
-    <div className="box">
-      <h1>Home</h1>
-    </div>
+    <Container>
+      <Pomodoro
+        defaultTime={1500}
+        longRestTime={900}
+        shortRestTime={300}
+        numberOfCycles={4}
+      />
+    </Container>
   );
 }
 
