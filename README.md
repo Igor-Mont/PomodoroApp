@@ -31,7 +31,7 @@
 <p>Alguns dos recursos dessa aplicação:</p>
 
 -   [ ] Aplicar lógica da <a style="color: red" target="_blank" href="">técnica do Pomodoro</a>;
--   [ ] Botão de Start / Rest / Pause = (Começar, Descansar, Pausar);d
+-   [ ] Botão de Start / Rest / Pause = (Começar, Descansar, Pausar);
 -   [ ] Background muda de acordo com o que está fazendo (trabalhando ou descansando);
 
 <h4> 🚨Em construção 🚨</h4>
