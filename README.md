@@ -41,6 +41,10 @@
 
 <h2> 📬 Visão geral do projeto</h2>
 
+<div align="center">
+  <img src="./screenshots/pomodoro.gif" />
+</div>
+
 <h2> 📬 Pré requisitos</h2>
 
 Ferramentas necessárias para rodar o projeto na sua máquina:
